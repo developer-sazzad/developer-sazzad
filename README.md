@@ -15,9 +15,9 @@ Hey Siri, Where is my Laptop....
 
 ---
 
-<h4 align="justify">
+<p align="justify" sype='font-size: larger'>
 welcome to my GitHub Profile. I am Sazzad Hossain a <span style="font-weight:bold"> MERN Stack Developer</span> and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 3 years and worked with many languages and technologies. I love to <span style="font-weight:bold">build full-stack web applications</span> and work with modern technologies. Apart from coding, I love <span style="font-weight:bold">exploring new technologies</span> and <span style="font-weight:bold">sharing knowledge</span> with the community. 
-</h4>
+</p>
 
 
 ---
