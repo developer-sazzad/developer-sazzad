@@ -1,4 +1,4 @@
-Hey Siri, Where is my Laptop....
+{codeWorks ? "🚀 Code Works! Don't Touch It!" : "🔥 Blame the Compiler!"}
 
 <h1 align="center"> 
    👋 Hi there, I'm Sazzad Hossain
