@@ -1,4 +1,4 @@
-{codeWorks ? "🚀 Code Works! Don't Touch It!" : "🔥 Blame the Compiler!"}
+<h4> if (codeWorks) { Don't Touch It; } else { Blame Intern(); } 🤣 </h4>
 
 <h1 align="center"> 
    👋 Hi there, I'm Sazzad Hossain
