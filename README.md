@@ -57,6 +57,35 @@ Hey Siri, Where is my Laptop....
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="GitHub Streak">
 </p>
 
+## 📊 Reza Shakeri's GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezashakeri&show_icons=true&theme=radical)
+
+### 🔥 Total Contributions
+- **⭐ Total Stars Earned:** 11.5k
+- **✅ Total Commits (2025):** 61
+- **🔀 Total PRs:** 613
+- **🐞 Total Issues:** 42
+- **📌 Contributed to (last year):** 5
+
+### 🚀 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezashakeri&layout=compact&theme=radical)
+
+```plaintext
+- HTML         37.34%
+- Python       28.57%
+- JavaScript   17.51%
+- CSS          16.34%
+- Shell         0.23%
+- Makefile      0.02%
+- Procfile      0.00%
+```
+
+### 📈 GitHub Profile Grade: A-
+![Profile Grade](https://img.shields.io/badge/Grade-A%2D-green)
+
+> *Generated using GitHub Readme Stats & Shields.io*
+
 ---
 
 ### 📫 **Connect with Me**
@@ -66,3 +95,5 @@ Hey Siri, Where is my Laptop....
 ---
 
 🔥 **"Keep coding and keep growing!"** 🚀  
+
+
