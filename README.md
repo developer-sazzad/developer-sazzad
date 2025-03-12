@@ -1,6 +1,4 @@
 Hey Siri, Where is my Laptop....
-![banner](https://github.com/webDevSazzad/webDevSazzad/assets/121819610/80f4e059-6e5d-4a6e-baf3-7071792be9a9)
-
 
 <h1 align="center"> 
   Hi there, I'm Sazzad Hossen 👋
@@ -18,47 +16,12 @@ Hey Siri, Where is my Laptop....
 ---
 
 ### 💻 **About Me**
-🔹 I am **Sazzad Hossen**, a **MERN Stack Developer** and **CSE Student at Rangpur Polytechnic Institute**.  
-🔹 I love to **build full-stack web applications** and work with modern technologies.  
-🔹 I have experience in **React.js, Next.js, Node.js, MongoDB, and Firebase**.  
-🔹 Apart from coding, I love **exploring new technologies** and **sharing knowledge** with the community.  
-
----
-
-### 🚀 **My Favorite Tools & Technologies**
-#### **Languages & Frameworks**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-</p>
-
-#### **Tools & Platforms**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</p>
-
----
-
-
-🔥 **"Keep coding and keep growing!"** 🚀  
-
 
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+welcome to my GitHub Profile. I am Sazzad Hossain, a **MERN Stack Developer** and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 3 years and worked with many languages and technologies. I love to **build full-stack web applications** and work with modern technologies. Apart from coding, I love **exploring new technologies** and **sharing knowledge** with the community. 
 
 </p>
-
+---
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -184,7 +147,32 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
  </tr>
 </table>
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
+### 🚀 **My Favorite Tools & Technologies**
+#### **Languages & Frameworks**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
+
+#### **Tools & Platforms**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+
+---
+
 
 ### 📊 **GitHub Stats**
 <p align="center">
@@ -202,3 +190,6 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 📩 You can also **email me at:** developersazzad7@gmail.com  
 
 ---
+
+
+🔥 **"Keep coding and keep growing!"** 🚀  
