@@ -68,6 +68,20 @@ Hey Siri, Where is my Laptop....
 - **🐞 Total Issues:** 42
 - **📌 Contributed to (last year):** 5
 
+## 📊 Sazzad Hossain's GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=majidulislam&show_icons=true&theme=dark)
+
+### 🔥 Total Contributions
+- **⭐ Total Stars Earned:** 0
+- **✅ Total Commits (2025):** 982
+- **🔀 Total PRs:** 1
+- **🐞 Total Issues:** 0
+- **📌 Contributed to (last year):** 0
+
+### 📈 GitHub Profile Grade
+![Profile Grade](https://img.shields.io/badge/Grade-A%2D-blue)
+
 ### 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezashakeri&layout=compact&theme=radical)
 
