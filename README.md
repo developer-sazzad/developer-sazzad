@@ -57,9 +57,9 @@ welcome to my GitHub Profile. I am Sazzad Hossain a <span style="font-weight:bol
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=developer-sazzad&show_icons=true&theme=radical" alt="GitHub Stats">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-sazzad&theme=radical" alt="GitHub Streak">
 </p>
 
 ### 📈 GitHub Profile Grade
