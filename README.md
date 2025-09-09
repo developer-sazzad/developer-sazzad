@@ -64,7 +64,7 @@ welcome to my GitHub Profile. I am Sazzad Hossain a <span style="font-weight:bol
 
 
 ### 📫 **Connect with Me**
-💬 Feel free to reach out on **[LinkedIn](https://linkedin.com/in/yourprofile)** or **[Twitter](https://twitter.com/yourprofile)**.  
+💬 Feel free to reach out on **[LinkedIn](https://www.linkedin.com/in/developersazzad/)** or **[Twitter](https://twitter.com/yourprofile)**.  
 📩 You can also **email me at:** developersazzad7@gmail.com  
 
 ---
